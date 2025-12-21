@@ -2,13 +2,9 @@
 
 ## 📁 Project Overview
 
-This Power BI project presents an interactive dashboard to analyze mobile phone sales across multiple cities in India. The dataset includes various dimensions like brands, models, cities,
+This Power BI project presents an interactive dashboard to analyze mobile phone sales across multiple cities in India. The dataset includes various dimensions like brands, models, cities, payment methods, ratings, and time (year, quarter, month, day). 
 
-payment methods, ratings, and time (year, quarter, month, day). 
-
-This end-to-end BI project demonstrates real-world data handling — from importing and cleaning raw data, transforming it using Power Query, modeling relationships, creating a custom date table,
-
-applying DAX measures, and finally designing a rich dashboard for actionable insights.
+This end-to-end BI project demonstrates real-world data handling — from importing and cleaning raw data, transforming it using Power Query, modeling relationships, creating a custom date table, applying DAX measures, and finally designing a rich dashboard for actionable insights.
 
 ---
 

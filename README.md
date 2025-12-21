@@ -99,8 +99,8 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 - Excel/CSV
 
 ## About
-Mohd Faraz
-mdfaraz1182@gmail.com
+  Mohd Faraz
+  mdfaraz1182@gmail.com
 
 
 

@@ -1,6 +1,3 @@
-# POWER-BI-Dashboard_2
-# Mobile Sales Dashboard Power BI Project
-
 # 📊 Mobile Sales Dashboard | Power BI Project
 
 ## 📁 Project Overview
@@ -20,11 +17,11 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 - Import, clean, and transform raw sales data using Power Query
 - 
 - Create a custom calendar table for dynamic date-based filtering
-- 
+  
 - Establish model relationships for accurate aggregations
-- 
+  
 - Build a professional and interactive Power BI dashboard
-- 
+ 
 - Explore and apply DAX formulas for KPIs and time intelligence
 
 ---
@@ -101,7 +98,8 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 - DAX (Data Analysis Expressions)
 - Excel/CSV
 
-
+## About 
+Mohd Faraz
 ---
 
 

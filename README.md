@@ -15,7 +15,7 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 ## 🧠 Key Objectives
 
 - Import, clean, and transform raw sales data using Power Query
-- 
+
 - Create a custom calendar table for dynamic date-based filtering
   
 - Establish model relationships for accurate aggregations
@@ -98,9 +98,10 @@ applying DAX measures, and finally designing a rich dashboard for actionable ins
 - DAX (Data Analysis Expressions)
 - Excel/CSV
 
-## About 
+## About
 Mohd Faraz
----
+mdfaraz1182@gmail.com
+
 
 
 

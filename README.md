@@ -95,8 +95,9 @@ This end-to-end BI project demonstrates real-world data handling — from import
 - Excel/CSV
 
 ## About
-  Mohd Faraz
-  mdfaraz1182@gmail.com
+Mohd Faraz
+
+mdfaraz1182@gmail.com
 
 
 
